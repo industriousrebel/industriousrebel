@@ -1,1 +1,3 @@
-![Carrytheboats Davidgoggins GIF](https://tenor.com/bJVTt.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./img/goggins.gif" />
+</picture>
